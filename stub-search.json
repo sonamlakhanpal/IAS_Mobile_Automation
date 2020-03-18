@@ -1,0 +1,638 @@
+{
+  "total_results": 975,
+  "items_per_page": 20,
+  "kind": "search#companies",
+  "start_index": 0,
+  "items": [
+    {
+      "company_type": "ltd",
+      "snippet": "A.T.O.M. (INDUSTRIAL MODEL MAKERS) ",
+      "title": "A.T.O.M. LIMITED",
+      "company_status": "active",
+      "matches": {
+        "snippet": [
+          1,
+          8
+        ],
+        "title": [
+          1,
+          8
+        ]
+      },
+      "address": {
+        "premises": "High Street",
+        "address_line_1": "Sunningdale",
+        "postal_code": "SL5 0NG",
+        "region": "Berkshire",
+        "locality": "Ascot"
+      },
+      "description": "01819466 - Incorporated on 25 May 1984",
+      "links": {
+        "self": "/company/01819466"
+      },
+      "address_snippet": "High Street, Sunningdale, Ascot, Berkshire, SL5 0NG",
+      "date_of_creation": "1984-05-25",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "01819466"
+    },
+    {
+      "description": "03358136 - Incorporated on 22 April 1997",
+      "address": {
+        "locality": "Hook",
+        "postal_code": "RG29 1JW",
+        "country": "England",
+        "address_line_1": "Odiham",
+        "premises": "Bridge Farm Potbridge"
+      },
+      "title": "ATOM ACCESS LIMITED",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "active",
+      "company_type": "ltd",
+      "snippet": "",
+      "company_number": "03358136",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "date_of_creation": "1997-04-22",
+      "address_snippet": "Bridge Farm Potbridge, Odiham, Hook, England, RG29 1JW",
+      "links": {
+        "self": "/company/03358136"
+      }
+    },
+    {
+      "links": {
+        "self": "/company/07901976"
+      },
+      "date_of_creation": "2012-01-09",
+      "address_snippet": "22 Claymere Avenue, Rochdale, Lancashire, OL11 5WB",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "company_number": "07901976",
+      "company_type": "ltd",
+      "snippet": "",
+      "title": "ATOM ACCOUNTANCY SERVICES LIMITED",
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "address": {
+        "premises": "22",
+        "address_line_1": "Claymere Avenue",
+        "region": "Lancashire",
+        "postal_code": "OL11 5WB",
+        "locality": "Rochdale"
+      },
+      "description": "07901976 - Incorporated on  9 January 2012"
+    },
+    {
+      "company_type": "ltd",
+      "snippet": "",
+      "title": "ATOM ACTION LIMITED",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "active",
+      "address": {
+        "locality": "London",
+        "postal_code": "SE23 3PR",
+        "address_line_1": "Lapse Wood Walk",
+        "premises": "16"
+      },
+      "description": "09215873 - Incorporated on 12 September 2014",
+      "links": {
+        "self": "/company/09215873"
+      },
+      "date_of_creation": "2014-09-12",
+      "address_snippet": "16 Lapse Wood Walk, London, SE23 3PR",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "company_number": "09215873"
+    },
+    {
+      "company_number": "11518175",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "date_of_creation": "2018-08-15",
+      "address_snippet": "2 Deansford Lane, Harvington, Kidderminster, England, DY10 4ND",
+      "links": {
+        "self": "/company/11518175"
+      },
+      "description": "11518175 - Incorporated on 15 August 2018",
+      "address": {
+        "premises": "2",
+        "address_line_1": "Deansford Lane",
+        "country": "England",
+        "address_line_2": "Harvington",
+        "postal_code": "DY10 4ND",
+        "locality": "Kidderminster"
+      },
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "title": "ATOM ADMIN LIMITED",
+      "snippet": "",
+      "company_type": "ltd"
+    },
+    {
+      "description": "07625342 - Incorporated on  6 May 2011",
+      "address": {
+        "postal_code": "PL6 6TH",
+        "locality": "Plymouth",
+        "address_line_2": "Southway",
+        "country": "England",
+        "address_line_1": "Middlefield Road",
+        "premises": "74"
+      },
+      "title": "ATOM ADZ LIMITED",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_status": "active",
+      "company_type": "ltd",
+      "snippet": "",
+      "company_number": "07625342",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "date_of_creation": "2011-05-06",
+      "address_snippet": "74 Middlefield Road, Southway, Plymouth, England, PL6 6TH",
+      "links": {
+        "self": "/company/07625342"
+      }
+    },
+    {
+      "address": {
+        "postal_code": "LS28 7EX",
+        "locality": "Pudsey",
+        "country": "England",
+        "premises": "Phil Dodgson & Partners First Floor",
+        "address_line_1": "68 Uppermoor"
+      },
+      "description": "08609322 - Incorporated on 15 July 2013",
+      "snippet": "",
+      "company_type": "ltd",
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "title": "ATOM AERIAL LTD",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "company_number": "08609322",
+      "links": {
+        "self": "/company/08609322"
+      },
+      "date_of_creation": "2013-07-15",
+      "address_snippet": "Phil Dodgson & Partners First Floor, 68 Uppermoor, Pudsey, England, LS28 7EX"
+    },
+    {
+      "links": {
+        "self": "/company/08244914"
+      },
+      "date_of_creation": "2012-10-09",
+      "address_snippet": "34-35 Moulton Street, Manchester, Lancashire, M8 8FQ",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "08244914",
+      "snippet": "",
+      "company_type": "ltd",
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "title": "ATOM + LIMITED",
+      "address": {
+        "region": "Lancashire",
+        "postal_code": "M8 8FQ",
+        "locality": "Manchester",
+        "address_line_1": "Moulton Street",
+        "premises": "34-35"
+      },
+      "description": "08244914 - Incorporated on  9 October 2012"
+    },
+    {
+      "snippet": "",
+      "company_type": "ltd",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "active",
+      "title": "ATOM APP LTD",
+      "address": {
+        "locality": "London",
+        "postal_code": "WC2H 9JQ",
+        "country": "United Kingdom",
+        "address_line_1": "Shelton Street Covent Garden",
+        "premises": "71-75"
+      },
+      "description": "11145604 - Incorporated on 11 January 2018",
+      "links": {
+        "self": "/company/11145604"
+      },
+      "address_snippet": "71-75 Shelton Street Covent Garden, London, United Kingdom, WC2H 9JQ",
+      "date_of_creation": "2018-01-11",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "11145604"
+    },
+    {
+      "company_number": "05871674",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "address_snippet": "Dynevor House, 5-6 De La Beche Street, Swansea, SA1 3HA",
+      "date_of_creation": "2006-07-10",
+      "links": {
+        "self": "/company/05871674"
+      },
+      "description": "05871674 - Incorporated on 10 July 2006",
+      "address": {
+        "address_line_1": "5-6 De La Beche Street",
+        "premises": "Dynevor House",
+        "locality": "Swansea",
+        "postal_code": "SA1 3HA"
+      },
+      "title": "ATOM ARCHITECTURE LIMITED",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_status": "active",
+      "company_type": "ltd",
+      "snippet": ""
+    },
+    {
+      "description": "11578060 - Incorporated on 19 September 2018",
+      "address": {
+        "country": "England",
+        "address_line_1": "Sherborne Avenue Sherboune Avenue",
+        "premises": "14",
+        "locality": "Southall",
+        "postal_code": "UB2 4HU"
+      },
+      "title": "ATOM AUTO LTD",
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_type": "ltd",
+      "snippet": "",
+      "company_number": "11578060",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "date_of_creation": "2018-09-19",
+      "address_snippet": "14 Sherborne Avenue Sherboune Avenue, Southall, England, UB2 4HU",
+      "links": {
+        "self": "/company/11578060"
+      }
+    },
+    {
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "kind": "searchresults#company",
+      "company_number": "10894271",
+      "links": {
+        "self": "/company/10894271"
+      },
+      "date_of_cessation": "2019-02-19",
+      "date_of_creation": "2017-08-01",
+      "address_snippet": "5  Gathurst Lane, Shevington, Wigan, United Kingdom, WN6 8HA",
+      "address": {
+        "premises": "5 ",
+        "address_line_1": "Gathurst Lane",
+        "address_line_2": "Shevington",
+        "country": "United Kingdom",
+        "postal_code": "WN6 8HA",
+        "locality": "Wigan"
+      },
+      "description": "10894271 - Dissolved on 19 February 2019",
+      "company_type": "ltd",
+      "snippet": "",
+      "title": "ATOM AUTOMATION  LIMITED",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "dissolved"
+    },
+    {
+      "company_number": "11903935",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "date_of_creation": "2019-03-25",
+      "address_snippet": "54-56  Hounslow Road Hounslow Road, Twickenham, England, TW2 7EX",
+      "links": {
+        "self": "/company/11903935"
+      },
+      "description": "11903935 - Incorporated on 25 March 2019",
+      "address": {
+        "country": "England",
+        "premises": "54-56 ",
+        "address_line_1": "Hounslow Road Hounslow Road",
+        "locality": "Twickenham",
+        "postal_code": "TW2 7EX"
+      },
+      "title": "ATOM BAITS  LTD",
+      "company_status": "active",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_type": "ltd",
+      "snippet": ""
+    },
+    {
+      "address": {
+        "locality": "Durham",
+        "postal_code": "DH1 5TS",
+        "premises": "The Rivergreen Centre",
+        "address_line_1": "Aykley Heads",
+        "country": "England"
+      },
+      "description": "08632552 - Incorporated on 31 July 2013",
+      "snippet": "",
+      "company_type": "plc",
+      "company_status": "active",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "title": "ATOM BANK PLC",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "08632552",
+      "links": {
+        "self": "/company/08632552"
+      },
+      "address_snippet": "The Rivergreen Centre, Aykley Heads, Durham, England, DH1 5TS",
+      "date_of_creation": "2013-07-31"
+    },
+    {
+      "description": "12017360 - Incorporated on 24 May 2019",
+      "address": {
+        "address_line_1": "Food And Tech Park",
+        "premises": "Unit 4,",
+        "address_line_2": "Malmo Road",
+        "country": "United Kingdom",
+        "locality": "Hull",
+        "postal_code": "HU7 0YF"
+      },
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_status": "active",
+      "title": "ATOM BAR BEVERLEY LIMITED",
+      "snippet": "",
+      "company_type": "ltd",
+      "company_number": "12017360",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "date_of_creation": "2019-05-24",
+      "address_snippet": "Unit 4, Food And Tech Park, Malmo Road, Hull, United Kingdom, HU7 0YF",
+      "links": {
+        "self": "/company/12017360"
+      }
+    },
+    {
+      "description": "08853039 - Incorporated on 20 January 2014",
+      "address": {
+        "locality": "Harrow",
+        "postal_code": "HA3 9PR",
+        "address_line_1": "St. Pauls Avenue",
+        "premises": "7",
+        "country": "England"
+      },
+      "company_status": "active",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "title": "ATOM B.C. LTD",
+      "snippet": "",
+      "company_type": "ltd",
+      "company_number": "08853039",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "date_of_creation": "2014-01-20",
+      "address_snippet": "7 St. Pauls Avenue, Harrow, England, HA3 9PR",
+      "links": {
+        "self": "/company/08853039"
+      }
+    },
+    {
+      "company_number": "11252177",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "date_of_creation": "2018-03-13",
+      "address_snippet": "Unit 1  Ton Business Park, 2-8 Morley Road, Tonbridge, Kent, United Kingdom, TN9 1RA",
+      "links": {
+        "self": "/company/11252177"
+      },
+      "description": "11252177 - Incorporated on 13 March 2018",
+      "address": {
+        "premises": "Unit 1 ",
+        "address_line_1": "Ton Business Park",
+        "country": "United Kingdom",
+        "address_line_2": "2-8 Morley Road",
+        "region": "Kent",
+        "postal_code": "TN9 1RA",
+        "locality": "Tonbridge"
+      },
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "active",
+      "title": "ATOM BRANDS  LIMITED",
+      "snippet": "",
+      "company_type": "ltd"
+    },
+    {
+      "description": "08118137 - Incorporated on 25 June 2012",
+      "address": {
+        "postal_code": "HU7 0YF",
+        "locality": "Hull",
+        "address_line_2": "Malmo Road Sutton Fields Ind Estate (West)",
+        "address_line_1": "Food & Drink Park",
+        "premises": "Unit 4"
+      },
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "company_status": "active",
+      "title": "ATOM BREWING CO LIMITED",
+      "snippet": "",
+      "company_type": "ltd",
+      "company_number": "08118137",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "kind": "searchresults#company",
+      "address_snippet": "Unit 4 Food & Drink Park, Malmo Road Sutton Fields Ind Estate (West), Hull, HU7 0YF",
+      "date_of_creation": "2012-06-25",
+      "links": {
+        "self": "/company/08118137"
+      }
+    },
+    {
+      "address": {
+        "locality": "Bridport",
+        "region": "Dorset",
+        "postal_code": "DT6 5QL",
+        "address_line_1": "Marshwood",
+        "premises": "Holdscroft Lodge",
+        "country": "England"
+      },
+      "description": "07026954 - Incorporated on 23 September 2009",
+      "snippet": "",
+      "company_type": "ltd",
+      "matches": {
+        "snippet": [],
+        "title": [
+          1,
+          4
+        ]
+      },
+      "company_status": "active",
+      "title": "ATOM BUILD LTD",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "company_number": "07026954",
+      "links": {
+        "self": "/company/07026954"
+      },
+      "date_of_creation": "2009-09-23",
+      "address_snippet": "Holdscroft Lodge, Marshwood, Bridport, Dorset, England, DT6 5QL"
+    },
+    {
+      "company_number": "07628442",
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ],
+      "date_of_creation": "2011-05-10",
+      "address_snippet": "The Old Granary, Dunton Road, Laindon, Essex, SS15 4DB",
+      "links": {
+        "self": "/company/07628442"
+      },
+      "description": "07628442 - Incorporated on 10 May 2011",
+      "address": {
+        "address_line_1": "Dunton Road",
+        "premises": "The Old Granary",
+        "locality": "Laindon",
+        "region": "Essex",
+        "postal_code": "SS15 4DB"
+      },
+      "company_status": "active",
+      "matches": {
+        "title": [
+          1,
+          4
+        ],
+        "snippet": []
+      },
+      "title": "ATOM BUILDING SERVICES LTD",
+      "snippet": "",
+      "company_type": "ltd"
+    }
+  ],
+  "page_number": 1
+}
